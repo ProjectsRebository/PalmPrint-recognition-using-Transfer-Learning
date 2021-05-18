@@ -1,0 +1,10 @@
+{
+  "model"           : "vgg16",
+  "weights"         : "imagenet",
+  "include_top"     : false,
+
+  "train_path"      : "dataset_Path",
+  "Excel_sheet_path"   : "Excel sheet path to save features in it "
+  
+}
+
